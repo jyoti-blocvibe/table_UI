@@ -1,0 +1,88 @@
+body {
+    padding: 0px;
+    margin: 0px;
+
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+a,
+p {
+    font-weight: 500;
+}
+
+figure {
+    margin: 0;
+}
+
+
+.site_logo{
+	width: 50px;
+}
+.ullist{
+	list-style-type: none;
+}
+
+.tablesection{
+	width: 100%;
+}
+table.tablesection {
+    width: 50%;
+    border: 2px solid black;
+    background-color: pink;
+    margin-left: 350px;
+}
+.tablesection img{
+	width: 50px;
+}
+
+.ullist li{
+	display: inline;
+    margin: 10px;
+    border-radius: 5px;
+	}
+	.column {
+			float: left;
+			width: 30%;
+			margin:10px;
+			float:center;
+			text-align:center;
+			}
+	.img-section{
+			float: left;
+			padding-top:50px;
+			padding-left:15px;
+			width:50%;
+			background-color:#2b3c4d;
+			}
+	.read-more, a{
+			color:#fff;
+			}
+		.price-box{
+			float: left;
+			width: 45%;
+			margin-left:20px;
+			margin-bottom:40px;
+			color:#2b3c4d;
+			text-align: center;
+			padding-bottom:40px;
+			border: 1px; 
+			border-style: solid;
+			border-color:#e2e2e2;
+			}
+
+		.price-link{
+			 color:#0000ff;
+			}
+			.footer-section{
+			 text-align:center;
+			 background-image: url('images/footer.jpg');
+			 width:100%;
+			 height:100px;
+			}
+
+		
